@@ -46,7 +46,7 @@ Now, I may need to clearify two things.
 With that being sad, you can build your code and run simulation.
 
 <video width="320" height="240" autoplay muted>
-    <source src="Vids/1.mov" type="video/mov">
+    <source src="Vids/1.wmv" type="video/wmv">
 </video>
 
 This was the first way to do with. Now we can do with virtual functions. Using virtual functions are also important since the button action may not only have screen transition, but additional implementation like changing the button status, or sending some message through the UART. You need to handle those action from virtual functions.<br>
